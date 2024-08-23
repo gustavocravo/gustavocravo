@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo Cravo
 
-- 🔭 Hoje trabalho com FullStack
+- 👨‍💻 Hoje trabalho com FullStack
 - 💻 Estudando JavaScript e Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocravo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
