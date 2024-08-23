@@ -3,7 +3,7 @@
 - 👨‍💻 Hoje trabalho com FullStack
 - 💻 Estudando JavaScript e Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocravo&theme=dracula)](https://github.com/gustavocravo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocravo&theme=dracula)](https://github.com/gustavocravo?tab=repositories)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocravo&theme=dracula)](https://github.com/gustavocravo/github-readme-stats)
 
 
