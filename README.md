@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Cravo
 
 - 👨‍💻 Hoje trabalho com FullStack
-- 💻 Estudando JavaScript Java e SQL
+- 💻 Estudando JavaScript, Java e SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocravo&theme=dracula)](https://github.com/gustavocravo?tab=repositories)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocravo&theme=dracula)](https://github.com/gustavocravo?tab=repositories)
